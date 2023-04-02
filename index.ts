@@ -1,2 +1,1 @@
-const nome = "Gilson";
-console.log(nome);
+console.log("Running!");
